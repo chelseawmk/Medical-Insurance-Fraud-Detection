@@ -3,6 +3,10 @@
 ![Medical Fraud Detection](https://github.com/chelseawmk/Medical-Insurance-Fraud-Detection/blob/main/WhiteRabbit_Fulgham_750_1_What-Texans-Should-Know-about-Healthcare-Fraud-Charges_8.2.19.jpg)
 
 
+**Team Name**
+
+
+
 **Background** <br>
 
 In 2018, the US spends 16.9% of its GDP on healthcare, which is much higher than other OECD countries listed on the right hand side chart. 

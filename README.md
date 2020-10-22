@@ -3,8 +3,8 @@
 ![Medical Fraud Detection](https://github.com/chelseawmk/Medical-Insurance-Fraud-Detection/blob/main/WhiteRabbit_Fulgham_750_1_What-Texans-Should-Know-about-Healthcare-Fraud-Charges_8.2.19.jpg)
 
 
-**Competition [University of Toronto Data Hackthon](https://www.rotman.utoronto.ca/Degrees/MastersPrograms/WorkingProfessionalBlog/MFin/TD-Data-Hackathon--The-Rise-of-Data-2020)**<br>
-**Team Name:Hortons**<br>
+**Competition: [University of Toronto Data Hackthon](https://www.rotman.utoronto.ca/Degrees/MastersPrograms/WorkingProfessionalBlog/MFin/TD-Data-Hackathon--The-Rise-of-Data-2020)**<br>
+**Team Name: Hortons**<br>
 **Team Members: Junduo Dong, Lily Liu, Minke Wang, Yuqing Sun**
 
 =============

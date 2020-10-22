@@ -1,9 +1,10 @@
-# Medical-Insurance-Fraud-Detection
+# Medical Insurance Fraud Detection
 
 ![Medical Fraud Detection](https://github.com/chelseawmk/Medical-Insurance-Fraud-Detection/blob/main/WhiteRabbit_Fulgham_750_1_What-Texans-Should-Know-about-Healthcare-Fraud-Charges_8.2.19.jpg)
 
 
-**Team Name**
+**Team Name:Hortons**<br>
+**Team Members: Junduo Dong, Lily Liu, Minke Wang, Yuqing Sun**
 
 
 
@@ -25,3 +26,6 @@ Here is our presentation slides outlining our key findings and techniques: <br>
 [Presentation Deck](https://docs.google.com/presentation/d/1RopED3CJdBxJSxvYBHGgDMfeHC8DBE5cvPtHx__Hqd0/edit?usp=sharing)
 
 
+**Tableau Interactive Dashboard** 
+Here is our interactive dashboard presenting the data patterns and findings: <br>
+[Dashboard](https://public.tableau.com/profile/junduo#!/vizhome/MedicalInsuranceFraudInvestigation/WelcomePage)
